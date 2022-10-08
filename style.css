@@ -1,0 +1,22 @@
+table, td {
+    border: solid 2px black;
+    border-collapse: collapse;
+}
+
+thead   {
+    background-color: rgb(212, 211, 211);
+    font-weight: bold;
+}
+
+tbody td:first-child {
+    background-color: rgb(212, 211, 211);
+    font-weight: bold;
+}
+
+tfoot {
+    background-color: rgb(212, 211, 211);
+    font-weight: bold;
+}
+table {
+    text-align: center;
+}
